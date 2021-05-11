@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ramya-commits
-      I’m interested in web app development and standalone applications development.
-      I’m currently learning Python and Machine learning.
+- 👋 Hi, I’m @Ramya-commit
+        - I’m interested in web app development and standalone applications development using Java.
+        - I’m currently learning Python and Machine learning.
       
     
 
